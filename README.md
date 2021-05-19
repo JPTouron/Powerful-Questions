@@ -1,6 +1,6 @@
 # Powerful-Questions
 
-A list of powerful questions that help in analisys, discovery and sparking conversations with domain experts
+> A list of powerful questions that help in analisys, discovery and sparking conversations with domain experts
 ---
 
 - What is the smallest possible thing we can do to deliver this business value?
