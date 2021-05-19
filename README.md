@@ -38,3 +38,25 @@
 - Where does the need for this system come from?
 
 - How will this system give value to the business?
+
+- What uncertainties should we be worried about?
+
+- What opportunities are we missing?
+
+- What opportunities do new technologies offer us?
+
+- What is the threat of new technologies?
+
+- What else are we missing?
+
+- What is the biggest threat to us?
+
+- What’s the most important issue facing us?
+
+- What do we have to do less of to achieve more?
+
+- What “enemies” do we have to defeat to achieve our objectives?
+
+- What will our competitors envy about us in 5 years?
+
+- How could we better work together?
